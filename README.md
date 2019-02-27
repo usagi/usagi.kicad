@@ -9,7 +9,7 @@
 
 # いめーじ
 
-[!](switch/2MS1-T1-B4-VS2-Q-E-S.png)
+![example image; switch/2MS1-T1-B4-VS2-Q-E-S](switch/2MS1-T1-B4-VS2-Q-E-S.png)
 
 # 使い方
 
