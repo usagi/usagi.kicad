@@ -11,6 +11,8 @@
 
 ![example image; switch/2MS1-T1-B4-VS2-Q-E-S](switch/2MS1-T1-B4-VS2-Q-E-S.png)
 
+![example image; microcontroller/ProMicro](microcontroller/ProMicro.png)
+
 # 使い方
 
 - .kicad_mod の配置場所を KiCad のフットプリントライブラリーに追加し、
