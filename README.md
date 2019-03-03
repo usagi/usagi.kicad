@@ -22,10 +22,19 @@
 
 ![example image; microcontroller/ProMicro まちがわないくろ Footprints](microcontroller/ProMicro_Machigawanai_Footprint.png)
 
+![example image; conn/HosoPinHeader](conn/HosoPinHeader.png)
+
+![example image; conn/HosoPinSocket](conn/HosoPinSocket.png)
+
+![example image; conn/SpringPinHeader](conn/SpringPinHeader.png)
+
 # 使い方
 
 - .kicad_mod の配置場所を KiCad のフットプリントライブラリーに追加し、
 - .wrl の配置場所を KiCad の3Dモデルのパスに追加してください。
+    - .kicad_mod では `model :USAGI_MICROCONTROLLER:ProMicro_Original+SPH2.5.wrl` のように .wrl を設定した状態になっています。
+    - 必用に応じて KiCad のエイリアスを設定するか .kicad_mod から .wrl へのパスを変更してよしなにしてください。
+    - デフォルトのエイリアスは `USAGI_CONN`, `USAGI_MICROCONTROLLER`, `USAGI_SWITC` のように `USAGI_{それぞれの入っているディレクトリー名を大文字にした文字列` になっています。
 
 …と、いう説明でよくわからない方、できない方は KiCad の使い方がわからない状態だと思うので、
 とりあえずググるなどして自己解決されてくださいませ💁
