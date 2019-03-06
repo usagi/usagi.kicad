@@ -18,6 +18,12 @@
 
 ![example image; switch/2MS1-T1-B4-VS2-Q-E-S](switch/2MS1-T1-B4-VS2-Q-E-S.png)
 
+![example image; switch/Cherry MX Red](switch/CherryMX_Red.png)
+
+![example image; switch/Cherry MX RGB Blue](switch/CherryMX_RGB_Blue.png)
+
+![example image; switch/Cherry MX RGB SpeedSilver](switch/CherryMX_RGB_SpeedSilver.png)
+
 ![example image; microcontroller/ProMicro 3D Models](microcontroller/ProMicro.png)
 
 ![example image; microcontroller/ProMicro まちがわないくろ Footprints](microcontroller/ProMicro_Machigawanai_Footprint.png)
